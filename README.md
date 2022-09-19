@@ -1,2 +1,3 @@
-# CSS-Position
-Created with CodeSandbox
+CSS and HTML Modal
+
+- Use position to copy modal design;
